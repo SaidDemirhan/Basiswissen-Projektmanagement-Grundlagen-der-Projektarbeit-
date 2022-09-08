@@ -1,1 +1,68 @@
-.
+Project:
+mit einem bestimmten Ziel (belirli bir hedef)
+einmaliges Vorhaben (bir kerelik)
+in der gesamtheit seiner bedingungen  (tüm kosullariyla)
+
+DIN 69901:
+im Projektmanagement beschreibt DIN
+Grundlagen, Prozesse Prozessmodell, Methoden, Daten, Datenmodel und Begriffe 
+
+DIN: Deutsches Institut für Normung e. V. (Alman standartizasyon enstitusu- 1917)
+
+Projekt -Prozess Unterschied:
+projekt=einmalig, nutzt Prozesse, ohne Routine
+Prozess= hat Anfang und Ende, wiederkehrend(tekrarlanan), lineare Kette.
+
+Projektmanagement-Umsetzung (Projektphasen):
+Projektinitialisierung(projeyi baslatma)    - Entscheidung, Auftrag(görev), Zieldefinition, Verantwortungsverteilung
+Projektplanung                              - Termin- , Kosten- , Aufgaben- Ressourcenplanung
+Projektdurchführung                         - Steuerung( Termineinhaltung(uyma), Kostenüberwachung, Vergleich an Stichtag(hedeflenen gün))
+Projektabschluss                            - Nachkalkulation, Tatsächlicher Vergleich
+(Gesamtes Projekt                            - Projektteam, Kommunikation, Personelmanagement, Meetings)
+
+Projektträger:
+Öffentlich (Staatliche Projekte- Straßenbau), firmenspezifisch(Unternehmenprojekte-Gründung einer Tochter Firma)
+
+Projektarten:
+Bauprojekte           - Straßenbau, Hausbau, Eisenbahnbau
+Forschungsprojekte    - Studien, Produktforschung
+Softwareprojekte      - Integration, Entwicklung, Anpassung
+IT-Projekte           - Websites, ERP, Databanken
+Organisationsprojekte - Reengineerung(degisim muhendisligi), Outsourcing(dis kaynak kullanimi), Lean Production(Yalin üretim)
+Politische Projekte   - Gesatze, Rentenreformen, Steuerreformen
+HR- Projekte          - Personalplanung, Rekrutierung(ise alim), Fortbildung
+
+Interne Projekte: Auftragnehemer und Auftraggeber befinden sich im gleichen Unternehmen
+Externe Projekte: nicht in gleichen Unternehmen. Der Auftraggeber  ist kein Mitarbeiter innerhalb des Auftragnehmers.
+
+
+Vorgehenmodelle(Sürec modelleri): 
+  Das Wasserfallmodell(selale modeli):
+    * Klassisches Projektmanagement
+    * Linear bzw. sepuentiell(dogrusal hatta sirali)
+  
+    + klare Abgrenzung der Phasen
+    + einfache Steuerung und Kontrolle
+  
+    - Unflexibel bei Schwierigkeiten innerhalb eines Projektes (projelerdek zorluklarda esnek degil)
+    - Ende eine Phase= Point of "no Return"! (asama sonrasi geri dönüs yok)
+    - Grund für Projektabbrüche(proje iptallerinin nedeni)
+  
+  
+  Das erweiterte Wasserfallmodell(gelismis selale modeli):
+      *Rücksprungmöglichkeit(geriye gitme mümkün), Korrekturmöglichkeit
+  
+  Das Spiralmodell(sarmal model):
+    * iterativ, wiederholend, zyklisch (yinelemeli, döngüsel) 
+    * Viele Zwischenergebnisse
+    * Kreislauf(döngü) von Zieldefinition, Planung, durchführung, Ausrichtung(yönlendirme)
+    * Treppenpodest:Orientierung vor dem nächstenDurchlauf(Bir sonraki adimdan once uyum)
+    * Optimierung
+  
+  Das V-Modell:
+    * Gegenüberstellung von verschiedenen Aufgaben(farkli görevlerin karsilastirilmasi)
+    * Anfang und Ende ergeben großes Ganze( baslangic ve bitis buyuk bir butunu olusturur)
+    * Input- Prpzess- Output
+    * EVA-Prinzip
+    
+
