@@ -3,15 +3,21 @@ mit einem bestimmten Ziel (belirli bir hedef)
 einmaliges Vorhaben (bir kerelik)
 in der gesamtheit seiner bedingungen  (tüm kosullariyla)
 
+-----------------------------------------------------------------  
+
 DIN 69901:
 im Projektmanagement beschreibt DIN
 Grundlagen, Prozesse Prozessmodell, Methoden, Daten, Datenmodel und Begriffe 
 
 DIN: Deutsches Institut für Normung e. V. (Alman standartizasyon enstitusu- 1917)
 
+-----------------------------------------------------------------  
+
 Projekt -Prozess Unterschied:
 projekt=einmalig, nutzt Prozesse, ohne Routine
 Prozess= hat Anfang und Ende, wiederkehrend(tekrarlanan), lineare Kette.
+
+-----------------------------------------------------------------  
 
 Projektmanagement-Umsetzung (Projektphasen):
 Projektinitialisierung(projeyi baslatma)    - Entscheidung, Auftrag(görev), Zieldefinition, Verantwortungsverteilung
@@ -20,8 +26,12 @@ Projektdurchführung                         - Steuerung( Termineinhaltung(uyma)
 Projektabschluss                            - Nachkalkulation, Tatsächlicher Vergleich
 (Gesamtes Projekt                            - Projektteam, Kommunikation, Personelmanagement, Meetings)
 
+-----------------------------------------------------------------  
+
 Projektträger:
 Öffentlich (Staatliche Projekte- Straßenbau), firmenspezifisch(Unternehmenprojekte-Gründung einer Tochter Firma)
+
+-----------------------------------------------------------------  
 
 Projektarten:
 Bauprojekte           - Straßenbau, Hausbau, Eisenbahnbau
@@ -32,9 +42,12 @@ Organisationsprojekte - Reengineerung(degisim muhendisligi), Outsourcing(dis kay
 Politische Projekte   - Gesatze, Rentenreformen, Steuerreformen
 HR- Projekte          - Personalplanung, Rekrutierung(ise alim), Fortbildung
 
+-----------------------------------------------------------------  
+
 Interne Projekte: Auftragnehemer und Auftraggeber befinden sich im gleichen Unternehmen
 Externe Projekte: nicht in gleichen Unternehmen. Der Auftraggeber  ist kein Mitarbeiter innerhalb des Auftragnehmers.
 
+-----------------------------------------------------------------  
 
 Vorgehenmodelle(Sürec modelleri): 
   Das Wasserfallmodell(selale modeli):
@@ -70,14 +83,20 @@ Vorgehenmodelle(Sürec modelleri):
     (Almanyanin kamu sistem gelistirme projeleri icin gelistirme standardi
     * XT= Extreme Tailoring(maßschneidern) (asiri terzilik)
 
+-----------------------------------------------------------------  
+
 Analyse:
   Top-Down, von oben nach unten, vom Groben ins Detail
   
 Synthese:
   Bottom-up, von unten nach oben, gesamt Bild erstellen, inkrementelles Vorgehen(ertirimli yaklasim)
   
+-----------------------------------------------------------------  
+  
 Das Magische Dreieck:
   Ziele= Kosten, Zeit, Ergebnis-Qualität-Leistung
+  
+------------------------------------------------------------------  
   
 Rollen im Projekt:
   Stakeholder(paydaslar):
@@ -93,8 +112,32 @@ Rollen im Projekt:
     Ergebnisorientierung, Teamplayer, Verantwortungsbewusstsein(sorumluluk duygusu,
     Fachliche Expertise(Fachkompetenz), PRojekterfahrung, Interesse am Projekterfolg
     
+-----------------------------------------------------------------      
+
+Teambau nach Tuckman:
+  Forming (sekillenme)
+    +Kennenlernen(tanima)
+    +Einschätzen(degerlendirme)
+    +Beschnuppern(koklama)
+  Storming(catisma-firtina)
+    +Positionierung(konumlanma)
+    +Machtkämpfe(güc mücadeleleri)
+    +Fehlende Kommunikation
+  Norming(normallesme-düzen)
+    +Rahmenbedingungen(genel sartlar)
+    +Konsens bilden(tartismali bir konuda uzlasmak)
+    +Verhaltensweisen(davranis tarzlari)
+    +Umgangsregeln(davranis-iliski kurallari)
+  Performing(performans)
+    +Umsetzung(uygulama-üretim)
+    +Teamleistung(takim performansi)
+  Adjourning(erteleme-cözülme)  
+    Auflösung des Team nach Projektende.
     
-    
+-----------------------------------------------------------------  
+
+
+  
     
     
      
