@@ -96,6 +96,15 @@ Synthese:
 Das Magische Dreieck:
   Ziele= Kosten, Zeit, Ergebnis-Qualität-Leistung
   
+  Maliyet-zaman-kapsam=kalite
+    Projeye ayrilan zaman artarsa kapsam da artacaktir.
+    Projenin kapsamini daraltirsaniz maliyet de düsecektir.
+    Projeye daha fazla kaynak ayrilirsa projenin tamamlanma hizi artacaktir.
+    
+    ucuz          + hizli         = düsük kalite
+    hizli         + yüksek kalite = pahali
+    ucuz          + yüksek kalite = düsük öncelik
+  
 ------------------------------------------------------------------  
   
 Rollen im Projekt:
@@ -136,7 +145,90 @@ Teambau nach Tuckman:
     
 -----------------------------------------------------------------  
 
+Projektorganizationen:
+  Reine Projektorganization
+    Projektleiter hat eigene Mitarbeiter.
+    kritische und strategische Projekte
+    Auslands und Großprojekte
+    
+  Stabs- Projektorganization
+    Abteilungen bleibt gleich aber es gibt Projektleiter neben dem Geschäftsführer
+    Kleine, innovative, strategische projekte
+    
+  Matrix Projektorganization
+    Mix-form Reine und Stabsorganisation
+    Zwei Chef aber keine Änderung des Osganisationschemas
+    mittelgroße Projekte
+    für bekannte und Standardprojekte
+    
+----------------------------------------------------------------
 
+Projektinitialisierung(projeyi baslatma):
+  Nullphase
+    Proje baslangic asamasidir
+    Machbarkeit und Anforderungsrealisiereung(yapilabilirlik ve taleplerin gerceklestirilebilmesi)
+    
+  Projektidee - Business Case (yapilmasi düsünülen projenin fikri)
+    Brainstormig, Mindmapping, Projektumfeldanalyse(PUMA) -7 W-Frage
+    
+      Risikoanalyse- Sachliches Umfeld
+        intern
+          -Budget
+          -Unternehmenskultur
+          -Arbeitsvertäge
+        extern
+          -Gesetze
+          -Markttentwicklung&Trends
+          
+      Stakeholderanalyse- Sosiales Umfeld
+        intern
+          -Projektmitarbeiterr
+          -Betriebsrat
+          -Führungskräfte
+        extern
+          -Auftraggeber
+          -Dienstleister
+          -Lieferanten
+          
+  Lastenheft- Siparis kriterleri
+  Pflichtenheft- Siparis kriterlerinin uygulanmasi
+  
+  Lastenheft- Produktkonzepte - Pflichtenheft
+  
+  Die 7 W-Fragen:
+  
+    Wer ist involviert?                                 Kim dahil?
+    Wie können wir das Ziel erreichen?                  Hedefe nasıl ulaşabiliriz?
+    Wann soll das Ziel erreicht werden?                 Hedefe ne zaman ulaşılmalıdır?
+    Was steht uns für die Umsetzung zur Verfügung?      Neyi uygulamak zorundayız?
+    Wo stehen wir?                                      Nerede duruyoruz?
+    Warum machen wir das Projekt?                       Projeyi neden yapıyoruz?
+    Was soll konkret erreicht werden?                   Tam olarak ne elde edilecek?
+    
+Wirtschaftlichkeitsprinzip:
+  Durchführbarkeits- oder Machbarkeitsstudie
+  Nutzwert Analyse (Fayda analizi)
+  Entscheidungsbaum (karar agaci)
+  
+  
+  input(Zeit,Ressourcen,Kosten) -Projekt - Output(Leistungsumfang(isin kapsami), Qualität, Ergebnis)
+   
+SMART:
+  Spesifisch -özel -Was mache ich im Detail dafür?
+  Messbar -ölcülebilir - Gewicht, Alter, Anzahl, Stück, Prozente
+  Attraktiv -cekici - Was ist der Mehrwert?
+  Realisierbar -gerceklestirilebilir - Welches Wissen ist Vorhanden
+  Terminiert -zamani ayarlanmis - Zu welchem Zeitpunkt soll das erledigt sein?
+    
+Kickoff-Meeting: Baslangic toplantisi
+
+Projektantrag & -auftrag : Proje basvurusu ve siparisi
+    
+    
+  
+  
+          
+          
   
     
     
