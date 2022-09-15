@@ -224,8 +224,120 @@ Kickoff-Meeting: Baslangic toplantisi
 
 Projektantrag & -auftrag : Proje basvurusu ve siparisi
     
-    
+ --------------------------------------------------------
+PSP: Projektstrukturplan
+--------------------------------------------
+Gannt-Diagramm
+  Balkendiagramm für Terminplanvorgänge- Program aktiviteleri icin cubuk grafik
   
+----------------------------------------------------------
+
+Netzplantechnik- Ag planlama teknigi
+
+  • Vorgangsknoten      -Süreç düğümleri
+  • Vorwärtsrechnung    -İleriye dönük hesaplama
+  • Rückwärtsrechnung   -Geriye doğru hesaplama
+  • Gesamtpuffer        -toplam arabellek
+  • Freier Puffer       -bos arabellek
+  • Kritischer Pfad     -Kritik yol (rote Verbindungspfeile -Kırmızı bağlantı oklarıyla gösterilir)
+
+Vorgangsknoten -operasyon düğümü
+ 
+• FAZ = frühester Anfangszeitpunkt  -en erken başlama zamanı
+• FEZ = frühester Endzeitpunkt      -en erken bitiş zamanı
+• SAZ = spätester Anfangszeitpunkt  -en son başlama zamanı
+• SEZ = spätester Endzeitpunkt      -en son bitiş zamanı
+• GP = Gesamtpuffer                 -toplam arabellek
+• FP = freier Puffer                -boş arabellek
+
+-------------------------------------------------------------
+
+Resourcen -kaynaklar
+  
+  3 Produktionfaktoren VWL(Volkswirtschaftslehre -Ekonomi): Boden, Kapital, Arbeit
+  
+-------------------------------------------------------------
+Projektdurchführung -proje uygulaması
+  
+  • Projektcontrolling      -Proje kontrolü
+  • Projektsteuerungszyklus -Proje kontrol döngüsü
+  • Projektdokumentation    -Proje dokümantasyonu 
+  • Projektmeetings         -Proje toplantıları
+
+--------------------------------------------------------------
+
+	Bringschuld
+	Lieferung der Kennzahlen durch den Aufgabenverantwortlichen
+	Görevden sorumlu kişi tarafından anahtar figürlerin teslimi
+	
+	Holschuld
+	Notwendige Informationen besorgen durch Management
+	Yönetimden gerekli bilgileri almak
+  
+---------------------------------------------------------------  
+
+	Soll-Ist Vergleich
+	hedef-gerçek karşılaştırmasi
+	Gegenüberstellung von Kennzahlen
+  Önemli rakamların karşılaştırılması
+  
+Planwerte
+• geschätzte Zeit 
+• geschätzte Ressourcen 
+• geschätzte Kosten 
+Aus Planungsphase
+
+planlanan değerler
+• Tahmini süresi
+• tahmini kaynaklar
+• varsayılan fiyatlar
+Planlama aşamasından
+
+Ist-Werte
+
+Tatsächliche Zeit
+•Tatsächliche Ressourcen
+•Tatsächliche Kosten
+Zum Zeitpunkt x
+gerçek değerler
+
+	asıl zaman
+	• Gerçek Kaynaklar
+	• Gerçek maliyetler
+	x zamanında
+
+Soll-Werte
+•angepasste Zeit•angepasste Ressourcen
+•angepasste Kosten
+	Angepasste Planwerte
+	hedef değerler
+  
+	•ayarlanmış zaman•ayarlanmış kaynaklar
+	• düzeltilmiş maliyetler
+	Düzenlenmiş plan değerleri
+
+-------------------------------------------------------------
+	• Meilenstein-Trendanalyse: -Kilometre taşı trend analizi
+  Zusammenfassung der Arbeitspakete in einem größeren Überblick 
+	daha geniş bir genel bakışta iş paketlerinin özeti
+-------------------------------------------------------------
+
+Projektabschluss -Bereiche 
+
+• Projektabschluss 
+• Aufgaben 
+• Abschlusssitzung 
+• Abschlussfeier
+
+Proje Tamamlama Alanları
+
+• Proje tamamlama
+• Görevler
+• Kapanış oturumu
+• Mezuniyet seremonisi
+
+
+
   
           
           
