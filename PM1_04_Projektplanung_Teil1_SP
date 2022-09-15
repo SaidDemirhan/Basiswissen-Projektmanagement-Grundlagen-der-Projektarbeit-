@@ -1,0 +1,300 @@
+PM1_04_Projektplanung_Teil1_SP
+Projektplanung proje planlaması
+Aufgaben- und Ablaufplanung
+Görev ve süreç planlaması
+Kosten- und Finanzplanung
+Maliyet ve finansal planlama
+
+Projektplanung - Schritte
+Was ist ein Projekt? Proje nedir?
+• Projektstrukturplan
+• Projektablaufplan
+• Terminplanung
+• Ressourcenplanung
+• Kostenplanung
+• Budget- und Finanzplanung
+• İş kırılım yapısı
+• Proje takvimi
+• Planlama
+• Kaynak Planlaması
+• Maliyet planlaması
+• Bütçe ve finansal planlama
+
+Projektstrukturplan – Übersicht Proje yapilandirma plani- genel bakış
+…ist quasi eine Aufgabengliederung
+…görev dağılımı gibidir
+• Projektstrukturplan (PSP)
+• Maximal 4 Ebenen:
+Ebene 0: Projekt
+Ebene 1: Meilensteine
+Ebene 2: Teilbereiche
+Ebene 3: Arbeitspakete
+
+Projektstrukturplan – Begriffe & Definitionen
+Begriff	Erklärung
+PSP	• Abkürzung für Projektstrukturplan
+Projektbezeichnung	• Thema des Gesamtprojektes
+Meilensteine	• Prüfpunkte mit z.B. Checklisten ob die Arbeit aller dazugehörigen Teilaufgaben und Arbeitspakte abgeschlossen sind
+Teilaufgaben	• Untergliederung der Themenbereiche in Aufgabenbereiche
+Arbeitspakete	• Kleinste Darstellungseinheit im PSP
+Ebene 0	• Projektbezeichnung (s.o.)
+Ebene 1	• Rubriken, Meilensteine
+Ebene 2	• Aufgabenbereiche, Teilaufgaben
+Ebene 3	• Arbeitspakete
+
+kavram	Açıklama
+psp	• İş kırılım yapısının kısaltması
+Proje Başlığı	• Genel projenin konusu
+kilometre taşları	• İlgili tüm alt görevlerin ve iş paketlerinin çalışmasının tamamlanıp tamamlanmadığını kontrol listeleri gibi kontrol noktaları
+alt görevler	• Konu alanlarının görev alanlarına bölünmesi
+iş paketleri	• PSP'deki en küçük ekran birimi
+seviye 0	• Proje adı (yukarıya bakın)
+Seviye 1	• Kategoriler, kilometre taşları
+Seviye 2	• Görev alanları, alt görevler
+Seviye 3	• İş paketleri
+Meilensteine kilometre taşları
+Projektabschnitte proje aşamaları
+• Nach DIN 69 900 ist ein Meilenstein "ein Ereignis besonderer Bedeutung".
+• Teilprojektabschnitte (Sammlung von Arbeitspakten)
+• Prüf- bzw. Messpunkte
+• Abschluss einer Umsetzungsphase innerhalb eines Projektes
+• Als Schnittstellen zwischen Projektphasen zu verstehen
+• Feststellung, ob Teilergebnisse erreicht worden sind
+• Entscheidung über weiteren Projektverlauf
+• DIN 69 900'e göre bir dönüm noktası "özel öneme sahip bir olaydır".
+• Alt proje bölümleri (iş paketlerinin toplanması)
+• Test veya ölçüm noktaları
+• Bir proje içinde uygulama aşamasının tamamlanması
+• Proje aşamaları arasındaki arayüzler olarak anlaşılmak
+• Kısmi sonuçlara ulaşılıp ulaşılmadığının belirlenmesi
+• Projenin sonraki seyrine ilişkin karar
+
+Teilbereiche
+Untergliederung von Projektphasen
+• Thematische Zusammenfassung von Arbeitspaketen
+• Zuordnung
+• Untergliederung
+• „Wie ein Kapitel in einem Buch.“
+alt alanlar
+Proje aşamalarının alt bölümleri
+• İş paketlerinin tematik özeti
+• Atıf
+• Alt Bölüm
+• "Bir kitaptaki bir bölüm gibi."
+
+Arbeitspakete
+Aufgabengliederung
+• „Teil des Projektes, der im Projektstrukturplan nicht weiter aufgegliedert ist und auf einer beliebigen Gliederungsebene liegen kann.“ (DIN 69 901)
+• Klar bezüglich Ihrer Ziele, Aktivitäten, Kosten und Zeiten
+• Eigenständige, klar abgegrenzte Einheiten
+• Zuordnung zu bestimmten Personen bzw. Stellen
+• Ein Verantwortlicher pro Arbeitspaket
+• Externe Aufgaben als Arbeitspaket übergeben
+iş paketleri
+görev dağılımı
+• "Proje yapı planında daha fazla alt bölümlere ayrılmayan ve herhangi bir alt bölüm düzeyinde olabilen projenin parçası." (DIN 69 901)
+• Hedefleriniz, faaliyetleriniz, maliyetleriniz ve zamanlarınız konusunda net olun
+• Bağımsız, açıkça tanımlanmış birimler
+• Belirli kişilere veya pozisyonlara atama
+• Her iş paketinden bir kişi sorumlu
+• Harici görevleri bir iş paketi olarak aktarın
+
+Projektstrukturplan (PSP) – Gliederung anahat
+Aufgabengliederung görev dağılımı
+
+• Funktionsorientierte Gliederung
+• Tätigkeiten im Fokus (Was ist zu tun?)
+• Fonksiyon odaklı yapı
+• Odaktaki faaliyetler (Ne yapılması gerekiyor?)
+• Objektorientierte Gliederung
+• Produkt / Bereiche im Fokus (Woran muss
+gearbeitet werden?)
+• Zeitorientierte Gliederung
+• Phasen / Ablauf im Fokus (Wann ist was zu tun?)
+• Nesneye yönelik yapı
+• Odaklanılan ürün/alanlar (olması gerekenler
+çalışılacak mı?)
+• Zaman odaklı yapı
+• Aşamalar / süreç odakta (ne zaman yapılacak?)
+
+Beispiel Hausbau:
+Maximal 4 Ebenen erkennbar
+Die oberste Ebene des Diagramms ist die kompleCe Übersicht aller Ziele die erreicht werden müssen.
+Die Struktur "zerlegt" dann die Arbeit in Hauptkomponenten.
+Falls erforderlich werden diese Komponenten noch weiter aufgeschlüsselt.
+Nach der 100 % Regel enthält die oberste Ebene alles; allerdings gilt die 100 % Regel auch entsprechend für jede Ebene darunter. 
+Örnek ev inşaatı:
+Maksimum 4 seviye tanınabilir
+Grafiğin en üst seviyesi, ulaşılması gereken tüm hedeflerin eksiksiz bir özetidir.
+Yapı daha sonra işi ana bileşenlere "parçalar".
+Gerekirse, bu bileşenler daha da bozulur.
+%100 kuralına göre en üst seviye her şeyi içerir; ancak %100 kuralı aşağıdaki her seviye için geçerlidir.
+
+Ablauf- und Terminplanung
+Methoden der Terminplanung
+Was nutze ich denn nun?
+• Leistungstechnik (Vorgangsliste – der Ausgangspunkt)
+• Balken- alias Gantt-Diagramm (hauptsächlich im
+Projektmanagement eingesetzt)
+• Netzplantechnik (IHK Prüfungsrelevant)
+Süreç ve randevu planlaması
+zamanlama yöntemleri
+Şimdi ne kullanıyorum?
+• Performans mühendisliği (süreç listesi – başlangıç noktası)
+• Baraka Gantt Şeması (esas olarak kullanılan proje yönetimi)
+• Ağ planlama teknolojisi (IHK sınavinds önemli)
+
+Projektablaufplan
+Aufgabengliederung
+• Wann wird was getan um das Ziel zu erreichen?
+• Startvorgang, Nachfolger, Vorgänger, Endvorgang
+• parallele Bearbeitung (mehrere Vorgänge auf einmal)
+• Serielle Bearbeitung (eins nach dem anderem)
+• Vorgangsliste
+• Zeit- und Terminplanung
+Proje takvimi
+görev dağılımı
+• Hedefe ulaşmak için ne zaman yapılacak?
+• İşlemi başlat, Ardıl, Öncül, İşlemi bitir
+• paralel işleme (bir kerede birkaç işlem)
+• Seri düzenleme (tek tek)
+• Görev listesi
+• Planlama ve programlama
+
+Die Vorgangsliste
+ Davor kommt, danach folgt
+operasyon listesi
+ Gelmeden önce, takip ettikten sonra
+ 
+Die Vorgangsliste – IHK Stolperfallen
+Die Vorgangsliste richtig deuten
+Süreç listesi – IHK engelleri
+İşlem listesini doğru yorumlayın
+ 
+Gantt-Diagramm
+Balkendiagramm für Terminplanvorgänge
+• Einfache, anschauliche Form des Ablaufs
+• Terminkontrolle für Projektdurchführung
+• Vernetztes Balkendiagramm (Nutzung von Pfeilen)
+• Kalenderansicht als Orientierung
+• Anwendungssoftware: MS Project / open Project
+Gantt şeması
+Program aktiviteleri için çubuk grafik
+• Sürecin basit, açık şekli
+• Proje uygulaması için son tarih kontrolü
+• Bağlantılı çubuk grafik (okların kullanımı)
+• Yönlendirme için takvim görünümü
+• Uygulama yazılımı: MS Project / Open Project
+Beispiel Hausrenovierung (in Excel)
+ 
+Netzplan verstehen
+Netzplantechnik – Was Sie wissen müssen
+Ağ planlama teknolojisi - Bilmeniz gerekenler
+Veranschaulichen, Verbinden, Berechnen
+Örneklendirin, Bağlayın, Hesaplayın
+• Vorgangsknoten (IHK-Vorgaben können variieren)
+• Vorwärtsrechnung
+• Rückwärtsrechnung
+• Gesamtpuffer
+• Freier Puffer
+• Kritischer Pfad
+• Süreç düğümleri (Sanayi ve Ticaret Odası özellikleri değişebilir)
+• İleriye dönük hesaplama
+• Geriye doğru hesaplama
+• Toplam Tampon
+• Ücretsiz Tampon
+• Kritik yol
+
+Vorgangsknoten operasyon düğümü
+ Veranschaulichen, Verbinden, Berechnen
+• FAZ = frühester Anfangszeitpunkt en erken başlama zamanı
+• FEZ = frühester Endzeitpunkt en erken bitiş zamanı
+• SAZ = spätester Anfangszeitpunkt en son başlama zamanı
+• SEZ = spätester Endzeitpunkt en son bitiş zamanı
+• GP = Gesamtpuffer toplam arabellek
+• FP = freier Puffer boş arabellek
+
+Vorwärtsrechnung
+ileri hesaplama
+Alle Vorgänge der Reihe nach berechnen
+Tüm işlemleri sırayla hesaplayın
+• Oberhalb des Knotens
+• Erster Startvorgang immer FAZ = 0
+• FAZ + Dauer = FEZ
+• FEZ des Vorgängerknotens = FAZ des Nachfolgeknotens
+• Düğümün üstünde
+• İlk çalıştırma her zaman FAZ = 0
+• FAZ + Süre = FEZ
+• Önceki düğümün FEZ'si = ardıl düğümün FAZ'si
+• MERKE: wenn eine Mehrgleisigkeit (Parallele Vorgänge) auftritt, dann wird die größte FEZ für den nächsten gemeinsamen Vorgang verwendet.
+• NOT: çok yollu (paralel süreçler) meydana gelirse, bir sonraki ortak süreç için en büyük FEZ kullanılır.
+
+Rückwärtsrechnung
+Geriye dogru hesaplama
+The whole way back Bütün yol geri
+• Endvorgang FEZ immer Endvorgang SEZ
+• SEZ – Dauer = SAZ
+• SAZ des Nachfolgeknotens = SEZ des Vorgängerknotens
+• SEZ sürecini sonlandırın her zaman SEZ sürecini sonlandırın
+• SEZ – Süre = SAZ
+• Ardıl düğümün SAZ'si = önceki düğümün SEZ'si
+• MERKE: wenn eine Mehrgleisigkeit (Parallele Vorgänge) auftritt, dann wird die kleinste SAZ für den nächsten gemeinsamen Vorgang verwendet.
+• NOT: birden fazla yol (paralel işlemler) oluşursa, bir sonraki ortak işlem için en küçük SAZ kullanılır.
+
+Gesamtpuffer
+toplam bellek
+Luft für Verschiebung?
+yer değiştirme için hava?
+• GP = SAZ - FAZ
+oder
+• GP = SEZ – FEZ
+
+
+
+Freier Puffer
+Bos bellek
+Veranschaulichen, Verbinden, Berechnen
+• Freier Puffer = FAZ des Nachfolgers – FEZ des Vorgängers
+• Bei mehreren Nachfolgern: FP = kleinster Nachfolger FAZ – FEZ des Vorgängerknotens
+• Bos bellek = halefin FAZ'si – öncekinin FEZ'si
+• Birden fazla ardıl varsa: FP = önceki düğümün en küçük ardıl FAZ – FEZ'si
+ 
+Regeln Gesamt- und Freier Puffer
+Toplam ve bos bellek kurallari
+Ist das nicht das Gleiche? Wo genau ist der Unterschied? Und jetzt auch Regeln?
+Aynı değil mi? Fark tam olarak nerede? Ve şimdi kurallar?
+• Entweder sind GP und FP identisch oder der GP ist größer als der FP. Der FP kann niemals größer sein als der GP.
+• Zu einem Unterschied zwischen GP und FP kann es nur kommen, wenn die Aktivität nicht auf dem kritischen Pfad liegt.
+• Liegt die Aktivität auf dem kritischen Pfad, dann ist der Puffer sowohl für GP und für FP identisch, nämlich Null.
+• GP ve FP aynı veya GP, FP'den daha büyük. FP asla GP'den büyük olamaz.
+• GP ve FP arasındaki fark, ancak faaliyet kritik yolda değilse ortaya çıkabilir.
+• Aktivite kritik yoldaysa, tampon hem GP hem de FP için aynıdır, yani sıfırdır.
+
+Gesamt- und Freier Puffer 
+Toplam ve Bos bellek
+Puffer bedeutet? 
+
+Zeitraum, um den eine Aktivität maximal verschoben werden kann, ohne die spätesten Termine seiner Nachfolger zu verschieben  
+Bir faaliyetin ardıllarının son tarihlerini değiştirmeden ertelenebileceği maksimum süre
+
+Zeitraum, um den eine Aktivität maximal verschoben werden kann, ohne die frühesten Termine seiner Nachfolger zu verschieben
+Bir faaliyetin haleflerinin en erken tarihlerini değiştirmeden ertelenebileceği maksimum süre
+  
+
+
+
+Kritischer Pfad Kritik yol
+
+Da steht was auf dem Spiel… Scheitern oder Erfolg?
+Tehlikede olan bir şey var... başarısızlık mı, başarı mı?
+
+• Definition: Der Kritische Pfad hat kein Gesamt oder freier Puffer und jede zeitliche Verzögerung verschiebt das Gesamtprojekt.
+• Tanım: Kritik yolun genel veya boş arabelleği yoktur ve herhangi bir zaman gecikmesi genel projeyi değiştirir.
+
+• Wird durch rote Verbindungspfeile markiert oder dargestellt.
+• Kırmızı bağlantı oklarıyla işaretlenir veya gösterilir.
+
+• GP immer 0
+• GP her zaman 0
+
+ 
