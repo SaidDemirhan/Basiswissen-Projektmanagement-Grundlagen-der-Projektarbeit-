@@ -1,0 +1,205 @@
+PM1_08_Scrum
+Grundlagen des Projektmanagements Proje yönetiminin temelleri
+Agiles Projektmanagement Atik proje Yönetimi
+Flexibles Abarbeiten von Projekten Projelerin esnek işlenmesi
+Der Überblick Genel Bakış
+Agiles Manifest Çevik Manifesto
+Regeln im agilen Projektmanagement Çevik proje yönetiminde kurallar
+• Menschen und Interaktionen stehen über Prozessen und Werkzeugen 
+• Funktionierende Software steht über einer umfassenden Dokumentation 
+• Zusammenarbeit mit dem Kunden steht über der Vertragsverhandlung 
+• Reagieren auf Veränderung steht über dem Befolgen eines Plans
+• İnsanlar ve etkileşimler süreçlerden ve araçlardan önce gelir
+• Çalışan yazılım, kapsamlı dokümantasyondan daha iyidir
+• Müşteri ile işbirliği, sözleşme görüşmelerinden önce gelir
+• Bir planın ardından kozları değiştirmeye yanıt verme
+
+Agiles und Klassisches Projektmanagement
+Çevik ve klasik proje yönetimi
+Klassisch	Agil
+Anforderungen zu Anfang komplett bekannt	Anforderungen zu Anfang unscharf(entwickeln sich)
+Änderungen während Projektverlaufs schwierig	Änderungen während Projektverlaufs akzeptabel
+Technische Sicht der Anforderungen (Features)	Kundensichtder Anforderungen (user stories)
+Fester Projektmanagementprozess	Ständige Prozessverbesserung
+Bereitstellung eines kompletten Endergebnisses	Bereitstellung von funktionierenden Teilergebnissen
+Meist Zeitliche Verschiebungen bei Engpässen	Meist Anforderung verringern bei Engpässen
+Klare Hierarchie	Keine Hierarchie,Selbstorganisation von Teams
+Viele Spezialisten,große Teams möglich	Gemeinsam Verantwortung, Teamgröße max. 9 Personen
+verteilteArbeitsplätze –abgetrennte Büroräume	OpenOffice Struktur –Großraumbüro
+Kommunikation über Dokumentation undMeetings	Vielinformelle, direkte Kommunikation & Stand-up Meeting
+Aufwandsschätzung durch Projektleiter oder Experten	Aufwandsschätzung durch Team
+
+Klasik	Atik
+Gereksinimler başlangıçta tam olarak bilinir	Başlangıçta bulanıklaşan gereksinimler (geliştirme)
+Proje süresince değişiklik yapmak zor	Proje kursu sırasındaki değişiklikler kabul edilebilir
+Gereksinimlerin teknik görünümü (özellikler)	Gereksinimlerin müşteri görüşleri (kullanıcı hikayeleri)
+Sabit proje yönetimi süreci	Sürekli süreç iyileştirme
+Tam bir sonuç sağlamak	Çalışan kısmi sonuçların sağlanması
+Darboğaz durumunda çoğunlukla zaman kayması	Genellikle darboğazlar durumunda gereksinimi azaltır
+hiyerarşiyi temizle	Hiyerarşi yok, ekiplerin kendi kendine organizasyonu
+Birçok uzman, büyük ekipler mümkün	Paylaşılan sorumluluk, ekip büyüklüğü en fazla 9 kişi
+Dağıtılmış işyerleri – ayrı ofisler	OpenOffice yapısı – açık plan ofis
+Dokümantasyon ve toplantılar yoluyla iletişim	Çok resmi olmayan, doğrudan iletişim ve stand-up toplantısı
+Proje yöneticileri veya uzmanları tarafından efor tahmini	Ekip tarafından efor tahmini
+Kanban-Board
+Agile Darstellung von Aufgabenverläufen 
+• Agiles Projektmanagement-Tool 
+• Visualisieren von Status der zu erledigenden Aufgaben 
+• Workflowdarstellung (Effizienz verbessern)
+kanban tahtası
+Görev süreçlerinin çevik temsili
+• Çevik proje yönetimi aracı
+• Tamamlanacak görevlerin durumunu görselleştirin
+• İş akışı gösterimi (verimliliği artırın)
+
+Scrum-Herkunft
+Regeln im agilen Projektmanagement
+•1995 erstmals Scrum-Methode auf einer Forschungskonferenz der Association for Computing Machinery, »SCRUM Development Process« veröffentlicht durch Jeff Sutherland und Ken Schwaber
+Scrum kaynağı
+Çevik proje yönetiminde kurallar
+• Scrum yöntemi ilk olarak 1995 yılında bir Association for Computing Machinery araştırma konferansında tanıtıldı, Jeff Sutherland ve Ken Schwaber tarafından yayınlanan “SCRUM Geliştirme Süreci”
+
+•Aus dem Rugby= Ausrichtung des Teams auf die Durchführung eines Touch-Downs
+•Basis Demingkreis+ Lean Management = Scrum Ansätze
+Adapt –Plan- Do -Check
+•Ragby'den= takımı gol atmaya yönlendirmek
+• Temel Demingkreis + Yalın Yönetim = Scrum yaklaşımları
+Plan- Uyarla -Kontrol -Et
+
+So einfach ist Scrum Scrum bu kadar basit
+ 
+
+
+
+Begriffserklärungen terimlerin açıklamaları
+Scrum Begriffe I Scrum Terimleri I
+Übersicht der wichtigsten Fachbegriffe En önemli teknik terimlere genel bakış
+• Framework = bestimmte Vorgehensweise (-modell) 
+• Artefakte = Ergebnistypen (Backlog, 
+• User Story = Statt Aufgabenstellung Beschreibung der Kundensituation und der gewünschten Änderung 
+• Product Backlog = Liste aller Kundenanforderungen 
+• Sprint Backlog =priorisierte Userstory für einen Sprint zur Abarbeitung vorgesehen 
+• Sprint = Zeitraum von ein bis vier Wochen innerhalb für die User Stories nutzbare Ergebnisse erstellt werden
+• Çerçeve = özel prosedür (model)
+• Artifacts = sonuç türleri (birikim,
+• Kullanıcı Hikayesi = Müşteri durumunun ve istenen değişikliğin görev tanımı yerine
+• Ürün İş Listesi = tüm müşteri gereksinimlerinin listesi
+• Sprint biriktirme listesi = bir sprint'te işlenmesi amaçlanan öncelikli kullanıcı hikayesi
+• Sprint = kullanıcı hikayeleri için kullanılabilecek sonuçların oluşturulduğu bir ila dört haftalık bir süre
+
+Scrum Begriffe II
+Übersicht der wichtigsten Fachbegriffe
+ • Definition of Done (DoD) = Klare Darstellung der Kriterien für ein fertiges Ergebnis einer User Story 
+• Inkremente = Teilergebnisse am Ende eines Sprints entsprechend Definition of Done 
+• Impediment Backlog = Auflistung aller zu lösenden Herausforderungen zur Förderung der Abarbeitung im Team
+Scrum Terimleri II
+En önemli teknik terimlere genel bakış
+ • Bitti Tanımı (DoD) = Bir kullanıcı hikayesinin bitmiş sonucu için kriterlerin net sunumu
+• Artışlar = yapılan tanımına göre bir sprint sonunda kısmi sonuçlar
+• Engel biriktirme listesi = ekipte işlemeyi teşvik etmek için çözülmesi gereken tüm zorlukların listesi
+
+Das Scrum Team
+Die einzelnen Rollen 
+• Product Owner: Experte für das Thema der Umsetzung, großer Kundenfocus und –verständnis, Ersteller der User Stories und Verantwortlicher für das Backlog 
+• Scrum Master: Teamcoach, Meeting Organisator und – Moderator, Arbeitsoptimierer und Hindernisbeseitiger 
+• Entwicklungsteam: Gesammeltes Expertenwissen, optimale Größe 7 +/- 2 Personen, transparente Kommunikation, Wissensteilung, hohe Eigenverantwortung und Selbstorganisation
+Scrum Takımı
+Bireysel roller
+• Ürün Sahibi: Uygulama konusunda uzman, mükemmel müşteri odaklılık ve anlayış, kullanıcı hikayelerinin yaratıcısı ve birikimden sorumlu
+• Scrum Master: Takım koçu, toplantı organizatörü ve moderatörü, iş optimize edici ve engel kaldırıcı
+• Geliştirme ekibi: Toplanan uzman bilgisi, optimal büyüklük 7 +/- 2 kişi, şeffaf iletişim, bilgi paylaşımı, yüksek derecede kişisel sorumluluk ve kendi kendine organizasyon
+
+
+
+
+Scrum Team Regeln
+Allgemeine Informationen zur Teamstruktur und Verhalten im Scrum
+ • Grundregel „Nicht der Mensch sondern der Prozess / das System muss verbessert werden.“ 
+• Skalierbarkeit: Nicht die Anzahl der Personen in einem Team wird angepasst, sondern die Anzahl der Teams + jeweils ein zuständiger Scrum-Master und Product- Owner 
+• Autonomie und Selbsttranszendenz fördern: eigene Entscheidungen und Umsetzungsverantwortung
+Scrum takım kuralları
+Scrum'da takım yapısı ve davranışı hakkında genel bilgiler
+ • Temel kural "Kişi değil, süreç/sistem iyileştirilmelidir."
+• Ölçeklenebilirlik: Ayarlanan bir ekipteki kişi sayısı değil, ekip sayısı + bir sorumlu scrum yöneticisi ve her biri bir ürün sahibidir.
+• Özerkliği ve kendini aşmayı teşvik edin: kendi kararları ve uygulama sorumluluğu
+
+Meetingformate
+Sprint Planning
+Systematische Auswertung 
+• 1. Scrum-Meeting innerhalb einer Durchlaufphase 
+• Product Owner + Scrum Master + Team 
+• Festsetzung der Sprintlänge (1 – 4 Wochen) 
+• Dauer des Meeting max. 10% der geplanten Sprintlänge 
+• Festlegung der gesamten zu erledigenden Sprintpunkte (z.B. 24 für eine Woche) 
+• Übernahme der priorisierten Aufgaben in das Sprint Backlog 
+• Klares Verständnis der Aufgaben abgesichert und des jeweiligen DoDs
+toplantı biçimleri
+sürat planlaması
+Sistematik değerlendirme
+• Bir gözden geçirme aşamasındaki 1. Scrum toplantısı
+• Ürün Sahibi + Scrum Master + Takım
+• Sprint uzunluğunun belirlenmesi (1 – 4 hafta)
+• Toplantı süresi, planlanan sprint uzunluğunun maksimum %10'u
+• Tamamlanacak toplam sprint puanlarının belirlenmesi (örn. bir hafta için 24)
+• Sprint iş listesindeki öncelikli görevlerin benimsenmesi
+• Güvence altına alınan görevlerin ve ilgili Savunma Bakanlığı'nın net bir şekilde anlaşılması
+
+Daily Scrum
+Täglicher Abgleich
+•Scrum-Master +Team
+•Maximal 15 Minuten, Stand-up Meeting
+•3 Fragen an jeden aus dem Team:
+•Was haben Sie gestern getan, um dem Team zu helfen, das Ziel des Sprints zu erreichen?
+•Was werden Sie heute tun, um dem Team zu helfen, das Ziel des Sprints zu erreichen?
+•Welche Hindernisse erkennen Sie, die das Team davon abhalten, das Ziel des Sprints zu erreichen?
+Günlük Scrum
+Günlük mutabakat
+•Scrum Master +Takımı
+• En fazla 15 dakika, stand-up toplantı
+• Ekipteki herkes için 3 soru:
+• Takımın sprint hedefine ulaşmasına yardımcı olmak için dün ne yaptınız?
+• Takımın sprint hedefine ulaşmasına yardımcı olmak için bugün ne yapacaksınız?
+• Takımın sprint hedefine ulaşmasını engelleyen ne gibi engeller görüyorsunuz?
+
+Sprint Review
+Vorführung der fertigen Teilergebnisse
+•Meeting an dem alle Stakeholder teilnehmen können
+•Product Owner moderiert
+•Fertigsteller des Teilergebnisses stellt dieses vor
+•Kriterium: Mindestens ein vollständig erkennbares Leistungsmerkmal
+•Direkte Rückmeldung durch Anwesenden 
+•So okay? Ja!(direkte Auslieferung an Kunden möglich)
+•Braucht noch folgende Anpassungen (erneute Aufnahme ins Product Backlog)
+
+Sprint incelemesi
+Bitmiş kısmi sonuçların sunumu
+• Tüm paydaşların katılabileceği toplantı
+• Ürün Sahibi tarafından yönetildi
+• Kısmi sonucu tamamlayan kişi bunu sunar
+• Kriter: En az bir tamamen tanınabilir özellik
+• Mevcut olanlardan doğrudan geri bildirim
+• Peki tamam mı? Evet! (müşterilere doğrudan teslimat mümkündür)
+• Aşağıdaki ayarlamalara ihtiyaç duyar (ürün biriktirme listesine yeniden dahil edilmesi)
+
+Sprint Retrospektive
+Systematische Auswertung
+•Offener Austausch zwischen Team und Scrum
+•Sprintreview
+•Was lief gut?
+•Was sollten wir anders machen?
+•Was können wir beibehalten?
+•Zufriedenheit im Team 
+•Zufriedenheitswerte der einzelnen Personen auf Skala veranschaulichen
+•Einen Lösungsansatzentwickeln und für den nächsten Sprintübernehmen
+
+Sprint retrospektif
+Sistematik değerlendirme
+• Takım ve Scrum arasında açık değişim
+• Sprint incelemesi
+• Ne iyi gitti?
+• Neyi farklı yapmalıyız?
+• Ne tutabiliriz?
+• Takım memnuniyeti
+• Bireysel kişilerin memnuniyet değerlerini bir ölçekte gösterin
+• Bir çözüm geliştirin ve bir sonraki sprint için benimseyin
+
