@@ -1,0 +1,329 @@
+Agile Genel Kavramlar
+•	Projeyi aşamalı olarak geliştirmeyi öngören
+•	İş değerinin erken ve kısa aralıklarla teslim edilmesi,
+•	Ürün yada süreçlerin sürekli iyileştirilmesi,
+•	Esnek Kapsam yönetimi,
+•	Müşteri ile yakın iş birliği,
+•	Kendi kendine yönetebilen etkin ekipler
+
+WaterFall Şelale Yöntemi : 
+Karmaşıklığın az olması gerekir karmaşıklık artıkça merkezi kontrol bozulur.
+1970 Winston W.Royce Requiremnet>Design>İmplementation>Verification>Maintenance
+Prototip: Sistem son hale gelmeden önce kullanıcıya gösterilen bir örnek prototip ile ilerletilmeye çalışılır.
+Spiral Model : Her fazda alternatifler incelenir bu inceleme spiralin bir sonraki aşaması için referans teşkil eder. 
+  
+Spiralin orj olan uzaklığı maliyeti ifade eder. Nesne tabanlı uygulamalar için kullanılması uygundur.
+Artırımlı Sürüm Modeli : Ardışık release ler ile çıkartılır.
+
+Çevik Yöntemler
+Daha küçük döngüler ile, analiz geliştirme ve test aşamaları tekrarlanmasına dayanır.
+İşi parça parça geliştirme ve teslim etme mantığı üzerine kurgulanmıştır.
+
+Çevik Manifesto
+Daha Önemli					Az Önemli
+Bireyler ve aralarındaki etkileşimler		Kullanılan Araç ve Süreçler
+Çalışan Yazılım					Detaylı Dokümantasyon
+Müşteri ile işbirliği				Sözleşmedeki kesin kurallar
+Değişikliklere uyum sağlayabilmek		Mevcut Planı Takip etmek
+İlkeler
+1.       Değerli yazılımın erken ve devamlı teslim edilmesi
+2.       Değişen gereksinimler yazılım son surecinde bile kabul edilmelidir. Değişim müşterinin rekabet avantajı için kullanılır.
+3.       Çalışan yazılım tercihen kısa aralıklar belli aralıklar ile müşteriye teslim edilir. (Bir kaç hafta ay)
+4.       İş süreçlerinin sahibi ve yazılımcılar proje boyunca her gün birlikte çalışmalıdır.
+5.       Projede motive olmuş bireyler ile çalışılmalıdır. Onların ihtiyaçları olan ortam ve destek sağlanmalıdır.
+6.       En etkili iletişim yüz yüze iletişimdir.
+7.       İlerlemenin birinci şartı çalışan yazılımdır.
+8.       Çevik süreçler sürdürülebilir geliştirmeyi teşvik etmelidir.
+9.       Teknik mükemmeliyet ve iyi tasarım konusundaki özen çevikliği artırır.
+10.   Sadelik yapılmaması gereken işlerin belirlenmesi ve artırılması sanatı
+11.   En iyi mimariler kendi örgütleyen ekiplerden çıkar.
+12.   Takım düzenli aralıklar ile daha iyi nelein yapacağı konusunda düşünür ve davranışlarını geliştirir.
+
+Ana Elemanlar
+·         Şeffaflık
+·         Denetleme, (Gözlem)
+·         Adaptasyon
+Roller
+·         Scrum Master
+·         Product Owner
+·         Geliştirme Takımı
+Aktiviteler
+1.       Iterasyon Planlama (Sprint Planing)
+2.       Günlük Scrum (Daily Scrum)
+3.       Iterasyon Değerlendirme (Sprint Demo,Sprint Review)
+4.       Geriye Dönük Gözden geçirme (Sprint Retrospective)
+Eserler
+1.       Ürün İçeriği (Product Backlog)
+2.       Iterasyon İçeriği (Sprint Backlog)
+3.       İş Bitimi Grafiği (BurnDown Chart)
+4.       Çalışan Ürün (Working Product)
+5.       Engel Listesi (Impediment List)
+Product Owner Product Backlog dan sorumludur.
+Sprint süresi genellikle 2 hafta olarak seçilir
+Sprint in ilk kısmı “NE”  ikinci kısmı “NASIL” öğleden sonra görüşülür.
+2-4 hafta süre
+
+TimeBoxing (Zaman Sınırı)
+Sprint Planlama		8 saat
+Sprint			2,3,4 hafta olabilir
+Daily Scrum		15 dk
+Sprint Review		4 saat
+Sprint Retrospective	3 Saat
+
+1.      XP  Extreme Programming
+2.      DSDM Dinamik Sistem Geliştirme
+3.      Crystal
+4.      Kanban
+5.      Lean Yaklaşım
+Toplamı Optimize et	
+Çöpü Elimine et		
+Kaliteyi Dahil et		
+Sürekli Öğren	
+Hızlı Teslim et	
+Ekibi Güçlendir	
+Hep Daha iyiye git
+
+ROI: Return On Investment : Yaptığınız yatirımın geri dönüşünü gösteren bir veridir. 
+Bir yatırımın size ne kadar getiri sağladığını, yani verimliliğin bu yatırımın sürdürülmesi gerekip gerkemkediğini gösterir.
+ROI =  (YATIRIMDAN GELEN KAZANÇ -YATIRIM MASRAFI) / YATIRIM MASRAFI
+Ürün Sahibi
+Tema > Epic > Kullanıcı Hikayesi
+Kullanıcı Hikayesi sıralaması Ürün sahibi tarafından yapılır.
+
+Tahminleme Yöntemleri
+o   Efor Tahminlemesi
+o   Planing Poker
+o   Relatif Tahmineleme
+
+Ürün Yol haritası hazırlanması 4 adımdan oluşmaktadır.
+1.       Ürün gereksinimlerin belirlenmesi,
+2.       Ürün Özelliklerin yerleştirilmesi (Temaların)
+3.       Ürün özelliklerinin tahminlenmesi ve önceliklendirilmesi
+4.       Üst düzey zaman dilimlerinin belirlenmesi
+
+Gereksinim Hiyerarşisi
+En alt seviye de Task, Task görev tek bir iş türüne bağlı olan iştir (programlama, analiz , test)
+
+User Story:   Kullanıcı hikayesi birden fazla çalışma türünü içermektedir.  Yani birden fazla görevden oluşur kullanıcı hikayesi ürün iş listesinden oluşur  bunların üstünde Epic yer alır
+
+Tema : Üst Seviye hedeflerdir
+Örn : Tüm şirket  yazılımlarına single sign-on giriş sağlamak gösterilebilir.
+
+Epic : Birbiri ile ilişkili kullanıcı hikayeleri grubudur.
+Mobil bankacılık ekranında kullanıcı ekranı giriş ile ilgili bağlantıları diğer story leri bir profil altında toplanması.
+
+Scrum da 3 çeşit hikaye olur.
+1.       Kullanıcı Hikayesi : Kullanıcı için değer yaratan fonksiyonları tanımlar, planlama kalemleridir, sprint kapsamasında yer alır.
+2.       Teknik Hikaye : Geliştirme Takımı tarafından yazılır. Fonksiyonel olmayan projeye ilişkin gereksinimlerdir.
+3.       Hata (Defect) üründe ki bir hata ya da bulguyu tanımlar, çözüm önerisi sunulabilir. 
+Ürün iş listesinden hatanın referansının tutulması önemlidir.
+
+Kullanıcı Hikayesi Şablonu
+As A <Role>  ilgili rol
+I want to <Goal> istediği hedef
+so that <benefit> bu hedefin faydaları
+Kabul Kriterleri istenmelidir.
+Persona : Ürünün gerçek kullanıcıları hakkında bilgilerinize dayanan hayali kişileri temsil eder.
+
+
+Kullanıcı Hikayesi Özellikleri
+Independent	Birbirinden bağımsız olmalı
+Negotiable :	Müzakere edilebilir olmalı
+Valuable	Müşteri Değeri olmalı
+Estimated	Efor Tahmini yapılabilmeli
+Small		Küçük boyutlu birkaç günlük işler olmalı
+Testable	Test edilebilir olmalı
+
+Story Map (Hikaye Haritası)
+Hikayeleri haritalamadir
+İş akışının görünürlüğünü sağlar
+Hikayeler arası ilişkileri gösterir
+Eksik hikayelerin tespitini gösterir.
+Hangi hikaye hangi hikaye ile ilşkili kaç hikayeye daha fazla gerek var, öncelik belirleme sıralamasinda başuvrabileceğimiz önceliklendirme tekniklerinden birisidir.
+Sürüm planlamasında değer yaratan hikayelere odaklanılmasını kolaylaştırır.
+Soldan sağa doğru önceliklendirmeye göre Epic ler sıralanır. Epic lerin gerçekleşme sıralamasına uygun olarak düzenlenir.
+Sonraki aşama Epicler ile ilgili Kullanıcı Hikayelerinin belirlenmesidir.
+
+Product Backlog : Ürün iş listesi  önceliklendirmesi ve büyüklük tahminlemesi yapılan kullanıcı hikayeleri, teknik hikayeler, hatalar ve risk yanıtlarının listesi yer alır.
+bir ürün ile ilgili tüm özelliklerin futureların listelendiği listedir.
+
+Sprint Backlog
+·         BurnDown Chart : Sprint içinde tamamlanan işlerin izlendiği chart
+·         Çalışan Yazılım (Working Product):
+·         Engel listesi  (Independent List):
+
+THE ROADMAP TO VALUE
+1.       VISION : ürün bundan sonraki süreç de nereye gideceğini öngören bir motto oluşturulması Vizyon bu ürün neden oluşturulmak isteniyor
+2.       PRODUCT_ ROADMAP
+3.       RELEASE PLANING
+4.       SPRINT PLANNING
+5.       DAILY SCRUM
+6.       SPRINT REVIEW
+7.       SPRINT RETROSPECTIVE
+Ürün Yol Haritası
+Define Of Done (DoD) : Bitti kriter tanımı
+Takımlar arasındaki senkronizasyonun sağlanması ortak bir dil ile bitti tanımın ortaya konulması.
+Bir ürünün bir tek Dod olur birden fazla bitti tanımı olmaz
+Dod değiştirilebilir esenetilebilir veya zorlaştıralabilir.
+Birdefazla takımın çalıştığı bir proje de dod tanımında güncelleme istendiğinde diğer tüm takımların da dahil olduğu dod tanımı değişikliği bilgilendirilmesi gerekir. DOD bir güncelleme gerekirse sprint içinde veya tüm takımlara bilgi verilmesi gerekiyor
+
+Analiz, Kodlama, Test, Döküman, Yayın
+
+User Story Olusturma
+Product owner tarfından oluşturuluyor
+Ben kimim ne istiyorum karşılığında ne istiyorum.
+User Story altında tasklar var
+T1,
+T2,
+T3
+Taskları devoloper team belirliyor
+User story ler tasklara bölünmeli ve taskın max 8 saati aşamaycak şekilde planlanması gerekir.
+
+
+Sürüm (Release): Sprint içersinde yapılan ürünün ortaya çıkarılması
+
+Kullanıcı Hikayesi Tahminleme Yöntemleri
+·         WideBand Delphi- Planing Poker : Grup Tahminleme yöntemi birbirinden bağımsız tahminleme(en düşük ve en yüksek  tahminleme arasındaki fark%20 kadar olmalıdır.
+·         Planing Poker : Fibonacci sequence baz alınır.
+·         Triangulation: Önceden tahmin edilmiş bazı hikayelere bağıl olarak diğer hikayelere tahminleme yöntemi A hikayesi B den büyük mü?
+·         Anchoring : Algısal ön yargı karar alırken sunulan ilk bilgi parçasına dayanılır (Anchor – Çapa) diğer kararlar bu çapadan ayarlanarak yapılır.
+·         Velocity :
+
+Story Point : Hikaye puanı  Scrum takımı tarafından kullanılan rasgele bir ölçüdür. Bir hikayenin gerçekleştirilebilmesi için gerekli olan eforu ölçmekte kullanılır.
+
+Sprint Planlama Toplantısı :
+·         İlk yarısında ; (NE kısmı sorusuna cevap arar)
+o    Ürün sahibi sprintte olması istenen özellikleri listeler
+o    Geliştirme takımı bu özelliklerden yapılabilecek olanları seçer
+o    Ürün sahibi öncelik sırasında son sözü söyler
+o    Geliştirme takımı yapılacaklar için son sözü söyler
+
+·         İkinci yarısında; (Nasıl kısmına cevap aranır.)
+o    Seçilen hikayeler görevlere tasklara kırılır.
+o    Görevler için tahminleme yapılır.
+o    İşlerin nasıl yapılacağı kararlaştırılır.
+o    Kimin yapacağı sonra da belirlenebilir.
+
+Görev Task Özellikleri
+·         Görev Sahibi
+·         Görev Durumu (Beklemede, Başladı , Tamamlandı)
+·         Tahmin Süre
+·         Gerçek Süre
+·         İlgili Hikaye
+Müşteri Değeri Odaklı Önceliklendirme
+·         Kano Modeli : Müşteri gereksinimlerini belirleme ve müşteri beklentilerini ötesine geçme (Temel ,Doğrusal ,Heyecan Verici İhtiyaçlar)
+·         Theme Screening ( Tema Gösterimi)
+·         Theme Scoring(Tema skorlama)
+·         Relative Weighting (Bağıl Ağırlıklandırma)
+
+
+·         MoSCoW
+o    (Must,
+o    Should Have,
+o    Could Have,
+o    Won’t Have)
+·         100 Puan
+
+Günlük (Daily) Scrum
+·         Ayakta en fazla 15 dk
+·         Dün ne yaptım, bugün ne yapacağım, önümde bir engel görüyor muyum?
+·         Scrum Master toplantıyı organize eder.
+·         Scrum Master in katılımı zorunlu değildir.
+·         Sorunlara çözüm bulunmaz
+·         Scrum Master engel ve sorunları Engeller (impediment) Listesine kaydeder ve aynı gün içerisinde çözülmesini sağlanır.
+
+Task Board :  To do , InProgress , Testing, Done
+
+Spint BurnDownChart : Sprint için kalan iş miktarının gösterildiği bir grafiktir.
+
+Sprint (Review )Değerlendirme Toplantısı
+• Sprint sonunda paydaşlara sunulan bir demodur.
+• Tüm proje paydaşlarını içeren bir toplantıdır.
+• Sprint Retrospective toplantısından önce yapılır.
+• Ürüne odaklanır.
+
+Sprint Retrospektif Toplantısı
+• Önceki Sprint performansı tartışılır ve neyin iyileştirilebileceği önerilir.
+• Scrum takım üyelerini içeren bir toplantıdır.
+• Bir sonraki Sprint Planning toplantısından önce yapılır.
+• Scrum sürecine odaklanır.
+
+Product Backlog Grooming :
+Ürün iş listesinin iyileştirilmesi aktivitesi. 
+Bir sonraki sprint planlaması öncesi Product Backlog un gözden geçirilmesi öncelikler değişebilir 
+ve yeni gereksinimler eklenebilir.
+Tüm scrum takımı dahil olur sorumlu Product Owner dır.
+
+Projenin Aşamaları
+Planlama – Proje ve Sürüm
+o    Product Backlog oluşturulması
+o    Kullanıcı Hikayesi oluşturulması
+o    Kullanıcı Hikayelerinin Önceliklendirilmesi
+o    Kullanıcı Hikayelerinin büyüklük tahminlemesi
+
+Planlama – Sprint
+o    Sprint Backlog oluşturulması
+o    Kullanıcı Hikayelerinin işlere (tasklara) bölünmesi
+o    Geliştirme Takımının işleri üzerine alması
+o    Görev efor tahminlemesi
+o    Görevlerin öncelik ve bağlantılarının incelenmesi
+
+
+
+İlk Sprintin Başlatılması ve İzlenilmesi
+·         Günlük Scrum
+·         Sprint Değerlendirme
+·         Sprint Retrospektifi
+·         Product Backlog Grooming (Bakım/ İyileştirme)
+Product Backlog ve Kullanıcı Hikayesi Oluşturma
+·         Öncelikle paydaşlar belirlenir.
+·         Sonrası olası tüm roller ekiple birlikte belirlenir.
+·         Önemli roller için detaylandırma yapılır ve kayıt altına alınır
+·         Rol kartlarına detaylar eklenir(Personas) hangi sıklıkla yazılım kullanılacak, uzmanlığı, bilgisayar kullanım sıklığı yetkinliği
+
+Iron Triangle Paradigma Shift (Paradigmanın Değişimi)
+Gördükçe hayallerin değişmesi regulasyonlar proje önceliklerinin değişmesi
+Yapılmış olan geliştirmelerin % kaçı kullanılıyor
+Fonksiyonların kullanımının ölçülmesi yapılamıyor (%40)
+
+Waterfall: gereksinimlerinin tümünü topla , planla,  tamamı implemente et, tamamını test et,
+Karmaşıklığın üst düzey olduğu projeler ve değişikliğin az olduğu projeler waterfall ile yürütülebilir.
+
+Artırımlı Sürüm Modeli: İlk sürümde bir değer ortaya çıkarma ve sonraki sürümlerde ilk üretilene ekleyerek devam ettirme.
+
+Agile altında yer alan framework
+Scrum %58
+Scrum /xp Hybrid %10
+Custom Hybrid %8
+Kanban % 5
+ScrumBan % 7
+Don’t Know % 8
+
+İtarretive yaklaşım : bir şeyi bitir yeniden başla
+Şeffaflık  (Transparency): Günlük toplantılar,
+Denetleme ( Inspection)
+Adaptasyon (Adaptation) her spirint sonrası bir sonraki sprint da daha iyi nelerin yapılabileceğini konuşulması (Retrospective)
+
+Scrum Takimi
+
+Scrum Master : Takımın sorumlusu, bir yönetici değildir takımın önündeki engellleri kaldıran bir hizmetkar liderlik (Servant Leaders) günlük toplantılara katılması zorunlu değil ama katılmasının faydası olur.
+
+Product Owner: iş biriminden genellikle günlük toplantılara opsiyonel olarak katılabilir, zorunlu değil ürünün yol haritasını belirleyen, bütçeyi belirleye ve yönetendir.
+
+Devolepment Team : test yazılımcı , analist, takım içinde kime ihityaç duyuluyorsa içinde bulunanlardir. herkes günlük toplantılara katılım zorunludur. 3-9 kişi 
+
+
+
+
+Scrum Team
+·         Kendi kenine organize olabilen ,
+·         Küçük, 
+·         Özerk,
+·         Multidisipliner: farklı farklı disiplinler cross funcitonol yapı ile herkesin her işe detek verebilmesi yetkinliği
+
+Bireysel tartışma çatışma yok ürünü değerlendirmiyoruz süreç te yapılanlar süreci değerlendirilmesi yapılıyor.
+
+Herkes neleri iyi yapıldığı veya kötü yapıldığının herkes tarafından görüş bildiririlerek yapılması gerekmektedir.
+
+Kullanabilirlik (Usebility ) kullanıcılar tarafındna kullanılabilirlik var mı ? Mobil projelerde
+
