@@ -95,7 +95,9 @@ Synthese:
   
 Das Magische Dreieck:
   Ziele= Kosten, Zeit, Ergebnis-Qualität-Leistung
-  
+  	Mit Dreieck sind die drei Zielgrößen Ergebnis / Qualität, Zeit und Kosten gemeint, die häufig in Zielkonflikten zueinander stehen. 
+	Üçgen, genellikle birbiriyle çelişen sonuç/kalite, zaman ve maliyet olmak üzere üç hedef değeri ifade eder.
+	
   Maliyet-zaman-kapsam=kalite
     Projeye ayrilan zaman artarsa kapsam da artacaktir.
     Projenin kapsamini daraltirsaniz maliyet de düsecektir.
@@ -146,16 +148,16 @@ Teambau nach Tuckman:
 -----------------------------------------------------------------  
 
 Projektorganizationen:
-  Reine Projektorganization
+  Reine Projektorganization -Einlinienorganisatione
     Projektleiter hat eigene Mitarbeiter.
     kritische und strategische Projekte
     Auslands und Großprojekte
     
-  Stabs- Projektorganization
+  Stabs- Projektorganization -Einflussorganisation
     Abteilungen bleibt gleich aber es gibt Projektleiter neben dem Geschäftsführer
     Kleine, innovative, strategische projekte
     
-  Matrix Projektorganization
+  Matrix Projektorganization -Mehrlinienorganisation
     Mix-form Reine und Stabsorganisation
     Zwei Chef aber keine Änderung des Osganisationschemas
     mittelgroße Projekte
@@ -190,8 +192,9 @@ Projektinitialisierung(projeyi baslatma):
           -Dienstleister
           -Lieferanten
           
-  Lastenheft- Siparis kriterleri
-  Pflichtenheft- Siparis kriterlerinin uygulanmasi
+  Lastenheft- Siparis kriterleri -Auftraggeber
+  Pflichtenheft- Siparis kriterlerinin uygulanmasi -Auftragnehmer
+  
   
   Lastenheft- Produktkonzepte - Pflichtenheft
   
@@ -246,16 +249,26 @@ Vorgangsknoten -operasyon düğümü
 • FAZ = frühester Anfangszeitpunkt  -en erken başlama zamanı
 • FEZ = frühester Endzeitpunkt      -en erken bitiş zamanı
 • SAZ = spätester Anfangszeitpunkt  -en son başlama zamanı
-• SEZ = spätester Endzeitpunkt      -en son bitiş zamanı
-• GP = Gesamtpuffer                 -toplam arabellek
+• SEZ = spätester Endzeitpunkt      -en son bitiş zamanı	SAZ-D
+• GP = Gesamtpuffer                 -toplam arabellek 		SEZ-FEZ
 • FP = freier Puffer                -boş arabellek
+• D = 								
 
 -------------------------------------------------------------
 
+Die gesamte Pufferzeit ...?
+Ist die Gesamtzeit, um die ein Terminplanvorgang im Hinblick auf seinen frühesten Anfangszeitpunkt verzögert werden kann.
+Bir zamanlama etkinliğinin en erken başlangıç zamanından ertelenebileceği toplam süredir.
+
+-------------------------------------------------------------
 Resourcen -kaynaklar
   
   3 Produktionfaktoren VWL(Volkswirtschaftslehre -Ekonomi): Boden, Kapital, Arbeit
   
+  Für eine Ressourcenplanung im Projektmanagement werden grundsätzlich benötigt?
+  	-Aufwandsschätzung
+	-Projektstrukturplan
+
 -------------------------------------------------------------
 Projektdurchführung -proje uygulaması
   
@@ -264,6 +277,16 @@ Projektdurchführung -proje uygulaması
   • Projektdokumentation    -Proje dokümantasyonu 
   • Projektmeetings         -Proje toplantıları
 
+--------------------------------------------------------------
+Das Projektcontrolling ist zuständig für:
+	Zielvorgaben mit dem laufenden Projekt zu vergleichen
+	Bei Abweichungen Gegenmaßnahmen vorschlagen
+	Abweichungen auf ihre Ursache hin zu untersuchen
+
+Proje kontrolü şunlardan sorumludur:
+	Hedefleri devam eden projeyle karşılaştırma
+	Sapma durumunda karşı önlemler önerme
+	Nedenlerini belirlemek için sapmaları arastirma
 --------------------------------------------------------------
 
 	Bringschuld
@@ -320,6 +343,20 @@ Soll-Werte
 	• Meilenstein-Trendanalyse: -Kilometre taşı trend analizi
   Zusammenfassung der Arbeitspakete in einem größeren Überblick 
 	daha geniş bir genel bakışta iş paketlerinin özeti
+-------------------------------------------------------------
+
+Meilensteine im Projektmanagement: Wichtige Punkte im Projektverlauf 
+
+-------------------------------------------------------------
+
+Arbeitspaketen:
+	Je detaillierter der Projektstrukturplan, desto größer die Anzahl der Arbeitspakete.
+	Ein Arbeitspakte ist die kleinste Planungseinheit in der Projektplanung.
+	
+iş paketleri:
+	İş kırılım yapısı ne kadar ayrıntılı olursa, iş paketi sayısı o kadar fazla olur.
+	İş paketi, proje planlamasındaki en küçük planlama birimidir.
+
 -------------------------------------------------------------
 
 Projektabschluss -Bereiche 
@@ -393,6 +430,7 @@ Scrum
 	
 • Definition of Done (DoD) = Klare Darstellung der Kriterien für ein fertiges Ergebnis einer User Story 
 	-Bitti Tanımı (DoD) = Bir kullanıcı hikayesinin bitmiş sonucu için kriterlerin net aciklamasi
+		DoD bestimmt genau, wann man eine UserStory als erledigte Aufgabe im Sprint in die Spalte Done schieben darf. 
 • Inkremente = Teilergebnisse am Ende eines Sprints entsprechend Definition of Done 
 	-yapılan tanımına göre bir sprint sonunda kısmi sonuçlar
 			Product Backlog -Sprint Backlog -Increment
