@@ -366,11 +366,41 @@ OpenOffice Struktur –Großraumbüro		-OpenOffice yapısı – açık plan ofis
 Vielinformelle, direkte Kommunikation & Stand-up Meeting -Çok resmi olmayan, doğrudan iletişim ve stand-up toplantısı
 Aufwandsschätzung durch Team			-Ekip tarafından efor tahmini
 
+--------------------------------------------------
 
+Kanban-Board: 
+	Agiles Projektmanagement-Tool 			      -Agile proje yönetimi aracıdir
+	Visualisieren von Status der zu erledigenden Aufgaben -Tamamlanacak görevlerin durumunu görselleştirir
+	Workflowdarstellung (Effizienz verbessern)	      -İş akışı gösterimi (verimliliği artırır)
 
+--------------------------------------------------
 
+Scrum
 
+	1995 -Jeff Sutherland und Ken Schwaber
+	 –Plan- Do -Check-Adapt
+	
+• Framework = bestimmte Vorgehensweise (-modell) 
+• Artefakte = Ergebnistypen (Backlog,...) 
+• User Story = Statt Aufgabenstellung, Beschreibung der Kundensituation und der gewünschten Änderung 
+	-Kullanıcı Hikayesi =Bir görev yerine, müşteri durumunun ve istenen değişikliğin bir açıklaması
+• Product Backlog = Liste aller Kundenanforderungen 
+	-Ürün İş Listesi = tüm müşteri gereksinimlerinin listesi
+• Sprint Backlog =priorisierte Userstory für einen Sprint zur Abarbeitung vorgesehen
+	-Sprint biriktirme listesi = bir sprint'te işlenmesi amaçlanan öncelikli kullanıcı hikayesi
+• Sprint = Zeitraum von ein bis vier Wochen innerhalb für die User Stories nutzbare Ergebnisse erstellt werden
+	-kullanıcı hikayeleri için kullanılabilecek sonuçların oluşturulduğu bir ila dört haftalık bir süre
+	
+• Definition of Done (DoD) = Klare Darstellung der Kriterien für ein fertiges Ergebnis einer User Story 
+	-Bitti Tanımı (DoD) = Bir kullanıcı hikayesinin bitmiş sonucu için kriterlerin net aciklamasi
+• Inkremente = Teilergebnisse am Ende eines Sprints entsprechend Definition of Done 
+	-yapılan tanımına göre bir sprint sonunda kısmi sonuçlar
+			Product Backlog -Sprint Backlog -Increment
+• Impediment Backlog = Auflistung aller zu lösenden Herausforderungen zur Förderung der Abarbeitung im Team
 
+ • 
+• Artışlar = yapılan tanımına göre bir sprint sonunda kısmi sonuçlar
+• Engel biriktirme listesi = ekipte işlemeyi teşvik etmek için çözülmesi gereken tüm zorlukların listesi
 
 
 
