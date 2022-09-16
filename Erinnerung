@@ -435,13 +435,90 @@ Scrum
 	-yapılan tanımına göre bir sprint sonunda kısmi sonuçlar
 			Product Backlog -Sprint Backlog -Increment
 • Impediment Backlog = Auflistung aller zu lösenden Herausforderungen zur Förderung der Abarbeitung im Team
-
- • 
-• Artışlar = yapılan tanımına göre bir sprint sonunda kısmi sonuçlar
-• Engel biriktirme listesi = ekipte işlemeyi teşvik etmek için çözülmesi gereken tüm zorlukların listesi
+	-Engel biriktirme listesi = ekipte işlemeyi teşvik etmek için çözülmesi gereken tüm zorlukların listesi
 
 
+-------------------------------------------------------------------------
 
+Das Scrum Team
+
+	• Product Owner: Experte für das Thema der Umsetzung, großer Kundenfocus und –verständnis, Ersteller der User Stories und Verantwortlicher für das Backlog 
+		Ürün Sahibi: Uygulama konusunda uzman, mükemmel müşteri odaklılık ve anlayış, kullanıcı hikayelerinin yaratıcısı ve birikimden sorumlu
+	• Scrum Master: Teamcoach, Meeting Organisator und – Moderator, Arbeitsoptimierer und Hindernisbeseitiger 
+		Scrum Master: Takım koçu, toplantı organizatörü ve moderatörü, iş optimize edici ve engel kaldırıcı, arabulucu
+	• Entwicklungsteam: Gesammeltes Expertenwissen, optimale Größe 7 +/- 2 Personen, transparente Kommunikation, Wissensteilung, hohe Eigenverantwortung und 
+	Selbstorganisation
+		Geliştirme ekibi: Toplanan uzman bilgisi, optimal büyüklük 7 +/- 2 kişi, şeffaf iletişim, bilgi paylaşımı, yüksek derecede kişisel sorumluluk ve
+		kendi kendine organizasyon
+	
+	
+	Grundregel „Nicht der Mensch sondern der Prozess / das System muss verbessert werden.“ 
+	Kişi değil, süreç/sistem iyileştirilmelidir.
+	
+	
+-------------------------------------------------------------------------
+
+Meetingformate
+
+Sprint Planning
+Systematische Auswertung -Sistematik değerlendirme
+• 1. Scrum-Meeting innerhalb einer Durchlaufphase -Bir gözden geçirme aşamasındaki ilk Scrum toplantısı
+• Product Owner + Scrum Master + Team 
+• Festsetzung der Sprintlänge (1 – 4 Wochen) -Sprint uzunluğunun belirlenmesi (1 – 4 hafta)
+• Dauer des Meeting max. 10% der geplanten Sprintlänge -Toplantı süresi, planlanan sprint uzunluğunun maksimum %10'u
+• Festlegung der gesamten zu erledigenden Sprintpunkte (z.B. 24 für eine Woche) -Tamamlanacak toplam sprint puanlarının belirlenmesi (örn. bir hafta için 24)
+• Übernahme der priorisierten Aufgaben in das Sprint Backlog -Sprint iş listesindeki öncelikli görevlerin benimsenmesi
+• Klares Verständnis der Aufgaben abgesichert und des jeweiligen DoDs -Güvence altına alınan görevlerin ve bittiginin net bir şekilde anlaşılması
+
+
+
+Daily Scrum
+Täglicher Abgleich
+•Scrum-Master +Team
+•Maximal 15 Minuten, Stand-up Meeting
+•3 Fragen an jeden aus dem Team: -Ekipteki herkes için 3 soru:
+•Was haben Sie gestern getan, um dem Team zu helfen, das Ziel des Sprints zu erreichen?
+•Was werden Sie heute tun, um dem Team zu helfen, das Ziel des Sprints zu erreichen?
+•Welche Hindernisse erkennen Sie, die das Team davon abhalten, das Ziel des Sprints zu erreichen?
+	• Takımın sprint hedefine ulaşmasına yardımcı olmak için dün ne yaptınız?
+	• Takımın sprint hedefine ulaşmasına yardımcı olmak için bugün ne yapacaksınız?
+	• Takımın sprint hedefine ulaşmasını engelleyen ne gibi engeller görüyorsunuz?
+
+Sprint Review
+Vorführung der fertigen Teilergebnisse -Bitmiş kısmi sonuçların sunumu
+•Meeting an dem alle Stakeholder teilnehmen können
+•Product Owner moderiert
+•Fertigsteller des Teilergebnisses stellt dieses vor
+•Kriterium: Mindestens ein vollständig erkennbares Leistungsmerkmal
+•Direkte Rückmeldung durch Anwesenden 
+•So okay? Ja!(direkte Auslieferung an Kunden möglich)
+•Braucht noch folgende Anpassungen (erneute Aufnahme ins Product Backlog)
+	• Tüm paydaşların katılabileceği toplantı
+	• Ürün Sahibi tarafından yönetildi
+	• Kısmi sonucu tamamlayan kişi bunu sunar
+	• Kriter: En az bir tamamen tanınabilir özellik
+	• Mevcut olanlardan doğrudan geri bildirim
+	• Peki tamam mı? Evet! (müşterilere doğrudan teslimat mümkündür)
+	• Aşağıdaki ayarlamalara ihtiyaç duyar (ürün biriktirme listesine yeniden dahil edilmesi)
+
+Sprint Retrospektive
+Systematische Auswertung -Sistematik değerlendirme
+•Offener Austausch zwischen Team und Scrum
+•Sprintreview
+•Was lief gut?
+•Was sollten wir anders machen?
+•Was können wir beibehalten?
+•Zufriedenheit im Team 
+•Zufriedenheitswerte der einzelnen Personen auf Skala veranschaulichen
+•Einen Lösungsansatzentwickeln und für den nächsten Sprintübernehmen
+	• Takım ve Scrum arasında açık değişim
+	• Sprint incelemesi
+	• Ne iyi gitti?
+	• Neyi farklı yapmalıyız?
+	• Ne tutabiliriz?
+	• Takım memnuniyeti
+	• Bireysel kişilerin memnuniyet değerlerini bir ölçekte gösterin
+	• Bir çözüm geliştirin ve bir sonraki sprint için benimseyin
 
 
 
